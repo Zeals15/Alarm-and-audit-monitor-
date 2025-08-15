@@ -1,0 +1,10 @@
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\bin\Debug\AlarmAndAuditMonitor.exe.config
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\bin\Debug\AlarmAndAuditMonitor.exe
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\bin\Debug\AlarmAndAuditMonitor.pdb
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.csproj.AssemblyReference.cache
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.Form1.resources
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.Properties.Resources.resources
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.csproj.GenerateResource.cache
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.csproj.CoreCompileInputs.cache
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.exe
+D:\SQL\AlarmAndAuditMonitor\AlarmAndAuditMonitor\obj\Debug\AlarmAndAuditMonitor.pdb
